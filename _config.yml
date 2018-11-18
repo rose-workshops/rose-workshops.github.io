@@ -8,10 +8,10 @@ url: "https://rose-workshops.github.io"
 baseurl: ""
 
 # Name of website
-title: RoSE Workshop series
+title: "RoSE Workshop series"
 
 # Short description of your site
-description: Official website of RoSE International Workshop on Robotics Software Engineering
+description: "Official website of RoSE International Workshop on Robotics Software Engineering"
 
 # --- Navigation bar options --- #
 
