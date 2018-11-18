@@ -17,7 +17,7 @@ description: Official website of RoSE International Workshop on Robotics Softwar
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "https://rose-workshops.github.io"
+  Home: "https://rose-workshops.github.io/"
   About: "about"
   RoSE 2019: "rose2019"
   People: "people"
