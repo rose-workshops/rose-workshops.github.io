@@ -17,10 +17,10 @@ RoSE is held on a yearly cycle. The first edition was co-located with ICSE and t
 <ul>
 <li><img src="/logos/gu.jpg"
      alt="GU"
-     style="float: left; margin-right: 10px; width: 300px;" /></li>
+     style="width: 300px;" /></li>
 <li><img src="/logos/mdh.png"
      alt="MDH"
-     style="float: left; margin-right: 10px; width: 300px;" /></li>
+     style="width: 300px;" /></li>
 <li><img src="/logos/rwth.png"
      alt="RWTH"
      style="float: left; margin-right: 10px; width: 300px;" /></li>
