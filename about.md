@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-subtitle: About RoSE
+subtitle: More about RoSE
 ---
 
 ### Mission
