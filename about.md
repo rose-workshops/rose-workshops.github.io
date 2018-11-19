@@ -14,19 +14,20 @@ RoSE is held on a yearly cycle. The first edition was co-located with ICSE and t
 
 ### Powered by
 
-
-<img src="/logos/gu.jpg"
+<ul>
+<li><img src="/logos/gu.jpg"
      alt="GU"
-     style="float: left; margin-right: 10px; width: 300px;" /><br />
-<img src="/logos/mdh.png"
+     style="float: left; margin-right: 10px; width: 300px;" /></li>
+<li><img src="/logos/mdh.png"
      alt="MDH"
-     style="float: left; margin-right: 10px; width: 300px;" /><br />
-<img src="/logos/rwth.png"
+     style="float: left; margin-right: 10px; width: 300px;" /></li>
+<li><img src="/logos/rwth.png"
      alt="RWTH"
-     style="float: left; margin-right: 10px; width: 300px;" /><br />
-<img src="/logos/univaq.png"
+     style="float: left; margin-right: 10px; width: 300px;" /></li>
+<li><img src="/logos/univaq.png"
      alt="UNIVAQ"
-     style="float: left; margin-right: 10px; width: 300px;" /><br />
-<img src="/logos/vu.png"
+     style="float: left; margin-right: 10px; width: 300px;" /></li>
+<li><img src="/logos/vu.png"
      alt="VU"
-     style="float: left; margin-right: 10px; width: 300px;" />
+     style="float: left; margin-right: 10px; width: 300px;" /></li>
+</ul>
