@@ -4,7 +4,6 @@ title: People
 subtitle: All the people involved in RoSE
 ---
 
-```
 # Steering Committee
 The RoSE steering committee has the mission to ensure continuity in the organization of regular stream of RoSE workshops and to ensure that the mission of each RoSE workshop is properly carried out. It also maintains the standards of quality of the papers published and the actual presentations. Moreover, it oversees the activities of the chairs and committees of each RoSE workshop and ensure continued vitality by implementing appropriate turnover in the steering committee membership and organizers.
 
@@ -62,4 +61,3 @@ RoSE would not be possible without the supporting expertise of its current and f
 - Jana Tumova (KTH, Sweden)
 - Andrzej Wasowski (IT University of Copenhagen, Denmark)
 - Sebastian Wrede (University of Bielefeld, Germany
-```
