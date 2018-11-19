@@ -12,21 +12,21 @@ RoSE aims at gathering contributions from both academic and industrial actors, t
 
 RoSE is held on a yearly cycle. The first edition was co-located with ICSE and the plan is to colocate RoSE with top conferences either in the SE or robotic areas. 
 
-#### Powered by
+### Powered by
 
 
 <img src="/logos/gu.jpg"
      alt="GU"
-     style="float: left; margin-right: 10px; width: 300px;" />
+     style="float: left; margin-right: 10px; width: 300px;" /><br />
 <img src="/logos/mdh.png"
      alt="MDH"
-     style="float: left; margin-right: 10px; width: 300px;" />
+     style="float: left; margin-right: 10px; width: 300px;" /><br />
 <img src="/logos/rwth.png"
      alt="RWTH"
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 10px; width: 300px;" /><br />
 <img src="/logos/univaq.png"
      alt="UNIVAQ"
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 10px; width: 300px;" /><br />
 <img src="/logos/vu.png"
      alt="VU"
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 10px; width: 300px;" />
