@@ -4,7 +4,9 @@ title: Publications
 subtitle: Publications related to RoSE
 ---
 
-### RoSE 2018
+This page presents all paper accepted in every [RoSE workshop](workshops) so far. 
+
+## 1st International Workshop on Robotics Software Engineering (RoSE'18)
 
 * _Thomas Witte and Matthias Tichy._ **Checking consistency of robot software architectures in ROS.** ([Document](https://ieeexplore.ieee.org/abstract/document/8445812) -- [Bibtex](./bibtex/ernst2018toward.bib))
 
