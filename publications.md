@@ -6,7 +6,7 @@ subtitle: Publications related to RoSE
 
 ### RoSE 2018
 
-* _Thomas Witte and Matthias Tichy._ **Checking consistency of robot software architectures in ROS.** ([Document](https://ieeexplore.ieee.org/abstract/document/8445812) -- [Bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:kcc3aiY-UmEJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAW_KDqfZtTeY-3LFJJ0vBaOn3MFWTxR0i&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1))
+* _Thomas Witte and Matthias Tichy._ **Checking consistency of robot software architectures in ROS.** ([Document](https://ieeexplore.ieee.org/abstract/document/8445812) -- [Bibtex](./bibtex/ernst2018toward.bib))
 
 * _Gianluca Bardaro, Matteo Matteucci and Andrea Semprebon._ **A use case in model-based robot development using AADL and ROS.** ([Document](https://ieeexplore.ieee.org/abstract/document/8445813) -- [Bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:hNwe4mf83OwJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAW_KFAyMknFuCLSC0Mt2kt3x8Na4L33Mc&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1))
 
