@@ -15,24 +15,24 @@ RoSE is held on a yearly cycle. The first edition was co-located with ICSE and t
 ### Powered by
 
 <ul style="list-style: none;">
-<li><img src="/logos/gu.jpg"
+<li><a href="https://www.gu.se"><img src="/logos/gu.jpg"
      alt="GU"
-     style="width: 300px;" /></li>
+     style="width: 300px;" /></a></li>
      <p style="margin-bottom:1cm;" />
-<li><img src="/logos/mdh.png"
+<li><a href="https://www.mdh.se"><img src="/logos/mdh.png"
      alt="MDH"
-     style="width: 300px;" /></li>
+     style="width: 300px;" /></a></li>
       <p style="margin-bottom:1cm;" />
-<li><img src="/logos/rwth.png"
+<li><a href="http://www.rwth-aachen.de"><img src="/logos/rwth.png"
      alt="RWTH"
-     style="width: 300px;" /></li>
+     style="width: 300px;" /></a></li>
       <p style="margin-bottom:1cm;" />
-<li><img src="/logos/univaq.png"
+<li><a href="http://www.univaq.it"><img src="/logos/univaq.png"
      alt="UNIVAQ"
-     style="width: 300px;" /></li>
+     style="width: 300px;" /></a></li>
       <p style="margin-bottom:1cm;" />
-<li><img src="/logos/vu.png"
+<li><a href="http://www.vu.nl"><img src="/logos/vu.png"
      alt="VU"
-     style="width: 300px;" /></li>
+     style="width: 300px;" /></a></li>
       <p style="margin-bottom:1cm;" />
 </ul>
