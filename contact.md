@@ -4,6 +4,7 @@ title: Contact
 subtitle: Feel free to contact us
 ---
 
-TBD
-
-- Contact: standard contact form pointing to our email addresses
+<p>
+Contact us at:
+<a href="mailto:rose@list.mdh.se?Subject=Hello%20again" target="_top">rose@list.mdh.se</a>
+</p>
