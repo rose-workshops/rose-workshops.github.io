@@ -1,0 +1,59 @@
+-------------------------------------------------------------------------------
+Call for Papers 
+
+Second International Workshop on 
+Robotics Software Engineering
+Co-located with ICSE 2019
+May 27, 2019, Montréal, QC, Canada
+
+https://rose-workshops.github.io/rose2019/
+
+Robotics is one of the most challenging domains for software engineering (SE). 
+Deploying even simple applications requires integrating solutions from experts 
+of various domains, including navigation, path planning, manipulation, 
+human-robot interaction, etc. Integration of modules contributed by respective 
+domain experts is one of the key challenges in engineering software-centric 
+systems, yet only one of the cross-cutting software concerns crucial to 
+robotics. As robots often operate in dynamic, partially observable 
+environments additional challenges include adaptability, robustness, safety, 
+and security. 
+
+The goal of RoSE 2019 is to bring together researchers from participating 
+domains with practitioners to identify new frontiers in robotics software 
+engineering, discuss challenges raised by real-world applications, and 
+transfer latest insights from research to industry. RoSE 2019 will solicit 
+contributions from both academic and industrial participants, thus fostering 
+active synergy between the two communities. Prospective participants are 
+invited to submit:
+
+RoSE 2019 welcomes the following types of contributions: 
+* research papers presenting novel contributions on advancing software 
+engineering in robotics (max. 8 pages);
+* challenge showcase papers describing robotics challenges considered 
+insufficiently addressed from an industry perspective (max. 6 pages);
+* lessons learned papers describing lessons learned in the collaboration 
+between the two communities of SE and robotics (max. 6 pages);
+* vision papers on the future of software engineering in robotics 
+(max. 4 pages);
+* tool and project papers on SE in robotics (max. 4 pages).
+
+Workshop papers must follow the ICSE 2019 Format and Submission Guidelines, 
+but will use a single blind submission process. All submitted papers will be 
+reviewed on the basis of technical quality, relevance, significance, and 
+clarity by the program committee. All workshop papers should be submitted 
+electronically in PDF format through the EasyChair website at 
+https://easychair.org/conferences/?conf=rose2019. Accepted papers will become 
+part of the workshop proceedings.
+
+Important Dates 
+
+* Submission deadline: February 01 2019
+* Notification of acceptance: March 01 2019
+* Camera-ready version: March 15 2019 
+
+Best wishes, 
+
+Federico Ciccozzi (Mälardalen University, Sweden) 
+Nico Hochgeschwender (Université du Luxembourg, Luxembourg)
+Ivano Malavolta (Vrije Universiteit Amsterdam, The Netherlands) 
+Andreas Wortmann (RWTH Aachen University, Germany)
