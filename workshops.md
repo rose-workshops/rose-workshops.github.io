@@ -4,9 +4,9 @@ title: Workshops
 subtitle: The RoSE workshops
 ---
 
-## 2nd International Workshop on Robotics Software Engineering (RoSE'18) 
+## 2nd International Workshop on Robotics Software Engineering (RoSE'19) 
 
-The [second edition of RoSE](/rose2019/) will be held at [ICSE 2019](https://2019.icse-conferences.org) in Montréal, Canada, between May 25 and May 31, 2019.
+The [second edition of RoSE](/rose2019/) will be held at [ICSE 2019](https://2019.icse-conferences.org) in Montréal, Canada on May 27, 2019.
 
 ## 1st International Workshop on Robotics Software Engineering (RoSE'18) 
 
