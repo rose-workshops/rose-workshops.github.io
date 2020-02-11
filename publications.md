@@ -20,7 +20,7 @@ This page presents all paper accepted in every [RoSE workshop](workshops) so far
 
 ## 2nd International Workshop on Robotics Software Engineering (RoSE'19)
 
-* _Thomas Witte and Matthias Tichy._ **MAPmAKER: Performing Multi-Robot LTL Planning Under Uncertainty.** ([PDF](./files/rose2019/papers/rose2019_1.pdf) -- [Bibtex](./files/rose2019/papers/rose2019_1.bib))
+* _Thomas Witte and Matthias Tichy._ **MAPmAKER: Performing Multi-Robot LTL Planning Under Uncertainty.** ([PDF](/files/rose2019/papers/rose2019_1.pdf) -- [Bibtex](/files/rose2019/papers/rose2019_1.bib))
 
 * _Piergiuseppe Mallozzi, Ezequiel Gustavo Castellano, Patrizio Pelliccione, Gerardo Schneider and Kenji Tei._ **A Runtime Monitoring Framework to Enforce Invariants on Reinforcement Learning Agents Exploring Complex Environments.** ([PDF](./files/rose2019/papers/rose2019_2.pdf) -- [Bibtex](./files/rose2019/papers/rose2019_2.bib))
 
