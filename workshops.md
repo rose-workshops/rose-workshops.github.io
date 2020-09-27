@@ -4,9 +4,9 @@ title: Workshops
 subtitle: The RoSE workshops
 ---
 
-## 3rd International Workshop on Robotics Software Engineering (RoSE'20) 
+## 3rd International Workshop on Robotics Software Engineering (RoSE'21) 
 
-We are in the process of organizing the [third edition of RoSE](/rose2020/), stay tuned!
+We are in the process of organizing the [third edition of RoSE](/rose2021/), stay tuned!
 
 ## 2nd International Workshop on Robotics Software Engineering (RoSE'19) 
 
