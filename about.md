@@ -15,10 +15,9 @@ RoSE is held on a yearly cycle. The first edition was co-located with ICSE and t
 ### Powered by
 
 <ul style="list-style: none;">
-<li><a href="https://www.gu.se"><img src="/logos/gu.jpg"
-     alt="GU"
+<li><a href="http://www.vu.nl"><img src="/logos/vu.png"
+     alt="VU"
      style="width: 300px;" /></a></li>
-     <p style="margin-bottom:1cm;" />
 <li><a href="https://www.mdh.se"><img src="/logos/mdh.png"
      alt="MDH"
      style="width: 300px;" /></a></li>
@@ -27,12 +26,13 @@ RoSE is held on a yearly cycle. The first edition was co-located with ICSE and t
      alt="RWTH"
      style="width: 300px;" /></a></li>
       <p style="margin-bottom:1cm;" />
+<li><a href="https://www.gu.se"><img src="/logos/gu.jpg"
+     alt="GU"
+     style="width: 300px;" /></a></li>
+     <p style="margin-bottom:1cm;" />
 <li><a href="http://www.univaq.it"><img src="/logos/univaq.png"
      alt="UNIVAQ"
      style="width: 300px;" /></a></li>
       <p style="margin-bottom:1cm;" />
-<li><a href="http://www.vu.nl"><img src="/logos/vu.png"
-     alt="VU"
-     style="width: 300px;" /></a></li>
       <p style="margin-bottom:1cm;" />
 </ul>
