@@ -23,6 +23,7 @@ Currently, the RoSE Steering Committee consists of the following members:
 
 # Organization Committee Members
 The RoSE organization committee organizes the individual workshops and takes care of attacting relevant and interesting publications. We thank the current and former organization committee members for support of RoSE:
+- Andreas Angerer (XITASO GmbH, Germany)
 - Federico Ciccozzi (Mälardalen University, Sweden)
 - Davide Di Ruscio (University of L’Aquila, Italy)
 - Nico Hochgeschwender (Université du Luxembourg, Luxembourg)
@@ -30,36 +31,6 @@ The RoSE organization committee organizes the individual workshops and takes car
 - Patrizio Pelliccione (Chalmers University of Technology / University of Gothenburg, Sweden)
 - Andreas Wortmann (RWTH Aachen University, Germany)
 
-
 # Program Comittee Members
-RoSE would not be possible without the supporting expertise of its current and former program committee members. We thank:
-- Leif Ahlman (Drones Networking, Sweden)
-- Karl-Erik Årzén (University of Lund, Sweden)
-- Mauro Birattari (Université Libre de Bruxelles, Belgium)
-- Darko Bozhinoski (Universite Libre de Bruxelles, Belgium)
-- Davide Brugali (University of Bergamo, Italy)
-- Mathias Buerger (Bosch, Germany)
-- Javier Camara Moreno (CMU, USA)
-- Alessandro di Fava (Pal Robotics, Spainn)
-- Juergen Dingel (Queen's School of Computing, Canada)
-- Francesco Ferro (Pal Robotics, Spain)
-- David Garlan (CMU, USA)
-- Holger Giese (Hasso-Plattner-Institut, Germany)
-- Sebastian Götz (University of Dresden, Germany)
-- Peter Gorm Larsen (Aarhus University, Denmark)
-- Fredrik Heintz (Linköping University, Sweden)
-- Rogardt Heldal (Høgskulen på Vestlandet, Norway)
-- Nico Hochgeschwender (University of Luxembourg, Luxembourg)
-- Rajeev Joshi (JPL, USA)
-- Danica Kragic (KTH, Sweden)
-- Martina Maggio (University of Lund, Sweden)
-- Claudio Menghi (University of Gothenburg, Sweden)
-- Arne Nordmann (Bosch, Germany)
-- Ivan Ruchkin (CMU, USA)
-- Andrey Rusakov (ETH, Switzerland)
-- Christian Schlegel (University of Applied Sciences Ulm, Germany)
-- Ulrik Pagh Schultz (University of Southern Denmark, Denmark)
-- Ulrike Thomas (University of Chemnitz, Germany)
-- Jana Tumova (KTH, Sweden)
-- Andrzej Wasowski (IT University of Copenhagen, Denmark)
-- Sebastian Wrede (University of Bielefeld, Germany
+RoSE would not be possible without the supporting expertise of its current and former program committee members. Thank you all!
+The full list of program committee members of each edition of the RoSE workshop is available in its corresponding web page [here](/workshops/). 
