@@ -4,7 +4,7 @@ title: Publications
 subtitle: Publications related to RoSE
 ---
 
-This page presents all paper accepted in every [RoSE workshop](workshops) so far. 
+This page presents all paper accepted in every RoSE workshop so far. 
 
 ## 3rd International Workshop on Robotics Software Engineering (RoSE'21)
 
