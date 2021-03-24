@@ -10,7 +10,7 @@ This page presents all paper accepted in every RoSE workshop so far.
 
 * _Jabier Martinez, Alejandra Ruiz, Ansgar Radermacher and Stefano Tonetta._ **Assumptions and Guarantees for Composable Models in Papyrus for Robotics.** ([PDF](/files/rose2021/papers/rose2021_1.pdf))
 * _Christoph Mayr-Dorn, Mario Winterer, Christian Salomon, Doris Hohensinger and Rudolf Ramler._ **Considerations for using Block-Based Languages for Industrial Robot Programming -- a Case Study.** ([PDF](/files/rose2021/papers/rose2021_2.pdf))
-* _Jabier Martinez, Alejandra Ruiz, Ainara Garzo, Thierry Keller, Ansgar Radermacher and Stefano Tonetta._ **Modelling the Component-based Architecture and Safety Contracts of ArmAssist in Papyrus for * Robotics.** ([PDF](/files/rose2021/papers/rose2021_3.pdf))
+* _Jabier Martinez, Alejandra Ruiz, Ainara Garzo, Thierry Keller, Ansgar Radermacher and Stefano Tonetta._ **Modelling the Component-based Architecture and Safety Contracts of ArmAssist in Papyrus for Robotics.** ([PDF](/files/rose2021/papers/rose2021_3.pdf))
 * _Arne Nordmann, Ralph Lange and Francisco Martín Rico._ **System Modes - Digestible System (Re-)Configuration for Robotics.** ([PDF](/files/rose2021/papers/rose2021_4.pdf))
 * _Darko Bozhinoski, Esther Aguado, Carlos Hernández Corbato, Mario Garzon Oviedo, Ricardo Sanz and Andrzej Wasowski._ **A Modeling Tool for Reconfigurable Skills in ROS.** ([PDF](/files/rose2021/papers/rose2021_5.pdf))
 * _Samuel Parra, Sven Schneider and Nico Hochgeschwender._ **Specifying QoS Requirements and Capabilities for Component-Based Robot Software.** ([PDF](/files/rose2021/papers/rose2021_6.pdf))
