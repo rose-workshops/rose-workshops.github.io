@@ -19,7 +19,7 @@ Currently, the RoSE Steering Committee consists of the following members:
 - [Shahar Maoz](http://www.cs.tau.ac.il/~maozs/) (Tel Aviv University, Israel)
 - [Jordi Pages](https://sites.google.com/site/jordipages/) (Pal Robotics, Spain)
 - [Patrizio Pelliccione](http://www.patriziopelliccione.com/) (Chalmers University of Technology, University of Gothenburg, Sweden)
-- [Andreas Wortmann](http://www.wortmann.ac/) (RWTH Aachen University, Germany)
+- [Andreas Wortmann](http://www.wortmann.ac/) (University of Stuttgart, Germany)
 
 # Organization Committee Members
 The RoSE organization committee organizes the individual workshops and takes care of attacting relevant and interesting publications. We thank the current and former organization committee members for support of RoSE:
