@@ -8,6 +8,7 @@ subtitle: All the people involved in RoSE
 The RoSE steering committee has the mission to ensure continuity in the organization of regular stream of RoSE workshops and to ensure that the mission of each RoSE workshop is properly carried out. It also maintains the standards of quality of the papers published and the actual presentations. Moreover, it oversees the activities of the chairs and committees of each RoSE workshop and ensure continued vitality by implementing appropriate turnover in the steering committee membership and organizers.
 
 Currently, the RoSE Steering Committee consists of the following members:
+- [Andreas Angerer](https://www.linkedin.com/in/dr-andreas-angerer-21b136175/) (XITASO GmbH, Germany)
 - [Lionel Briand](https://wwwfr.uni.lu/snt/people/lionel_briand) (University of Luxembourg, Luxembourg)
 - [Mathias Bürger](https://scholar.google.de/citations?user=WupCXMYAAAAJ&hl=en) (Robert Bosch GmbH, Germany)
 - [Federico Ciccozzi](http://www.es.mdh.se/staff/266-Federico_Ciccozzi) (Mälardalen University, Sweden)
