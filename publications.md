@@ -6,6 +6,18 @@ subtitle: Publications related to RoSE
 
 This page presents all paper accepted in every RoSE workshop so far. 
 
+## 4th International Workshop on Robotics Software Engineering (RoSE'22)
+
+* _Christoph Mayr-Dorn, Alexander Egyed, Mario Winterer, Christian Salomon and Harald Fürschuß._ **Evaluating PDDL for programming production cells: a case study.**([Paper](/files/rose2022/papers/RoSE22_paper_1.pdf)) ([Slides](/files/rose2022/slides/RoSE22_paper_1.pdf))
+* _Timo Blender and Christian Schlegel._ **Dynamic Allocation of Service Robot Resources to an Order Picking Task Considering Functional and Non-Functional Properties.**([Paper](/files/rose2022/papers/RoSE22_paper_2.pdf)) ([Slides](/files/rose2022/slides/RoSE22_paper_2.pdf))
+* _Marco Stadler, Michael Vierhauser and Jane Cleland-Huang._ **Towards flexible Runtime Monitoring Support for ROS-based Applications.**([Paper](/files/rose2022/papers/RoSE22_paper_4.pdf)) ([Slides](/files/rose2022/slides/RoSE22_paper_4.pdf))
+* _Ettore Merlo, Carlo Pinciroli, Jacopo Panerati, Michalis Famelis and Giovanni Beltrame._ **Automated Extraction and Checking of Property Models from Source Code for Robot Swarms.**([Paper](/files/rose2022/papers/RoSE22_paper_5.pdf)) ([Slides](/files/rose2022/slides/RoSE22_paper_5.pdf))
+* _Reynaldo Cobos Mendez, Eddo Hobert, Douwe Dresscher and Jan Broenink._ **On Structuring Energy-aware Sequence-control Software.**([Paper](/files/rose2022/papers/RoSE22_paper_6.pdf)) ([Slides](/files/rose2022/slides/RoSE22_paper_6.pdf))
+* _Manuel Zürn, Markus Wnuk, Armin Lechler and Alexander Verl._ **Software Architecture For Deformable Linear Object Manipulation: A Shape Manipulation Case Study.**([Paper](/files/rose2022/papers/RoSE22_paper_7.pdf)) ([Slides](/files/rose2022/slides/RoSE22_paper_7.pdf))
+* _Milda Zizyte and Trenton Tabor._ **Should Robotics Engineering Education Include Software Engineering Education?.**([Paper](/files/rose2022/papers/)) ([Slides](/files/rose2022/slides/)).**([Paper](/files/rose2022/papers/RoSE22_paper_9.pdf)) ([Slides](/files/rose2022/slides/RoSE22_paper_9.pdf))
+* _Paulo Canelas, Miguel Tavares, Ricardo Cordeiro, Alcides Fonseca and Christopher S._ **Timperley._ **The Developer Experience of Newcomers in Learning the Robot Operating System.**([Paper](/files/rose2022/papers/RoSE22_paper_11.pdf)) ([Slides](/files/rose2022/slides/RoSE22_paper_11.pdf))
+* _Gabriela Catalán Medina, Jérémie Guiochet, Charles Lesire and Augustin Manecy._ **A skill fault model for autonomous systems.**([Paper](/files/rose2022/papers/RoSE22_paper_12.pdf)) ([Slides](/files/rose2022/slides/RoSE22_paper_12.pdf))
+
 ## 3rd International Workshop on Robotics Software Engineering (RoSE'21)
 
 * _Jabier Martinez, Alejandra Ruiz, Ansgar Radermacher and Stefano Tonetta._ **Assumptions and Guarantees for Composable Models in Papyrus for Robotics.** ([PDF](/files/rose2021/papers/rose2021_1.pdf))
