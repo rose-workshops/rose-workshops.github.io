@@ -4,9 +4,13 @@ title: Workshops
 subtitle: The RoSE workshops
 ---
 
+## 5th International Workshop on Robotics Software Engineering (RoSE'23) 
+
+We are in the process of organizing the [fifth edition of RoSE](/rose2023/), stay tuned!
+
 ## 4th International Workshop on Robotics Software Engineering (RoSE'22) 
 
-We are in the process of organizing the [fourth edition of RoSE](/rose2022/), stay tuned!
+The [fourth edition of RoSE](/rose2022/) was held at [ICSE 2022](https://2022.icse-conferences.org).
 
 ## 3rd International Workshop on Robotics Software Engineering (RoSE'21) 
 
