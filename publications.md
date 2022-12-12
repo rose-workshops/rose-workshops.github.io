@@ -20,6 +20,8 @@ This page presents all paper accepted in every RoSE workshop so far.
 
 ## 3rd International Workshop on Robotics Software Engineering (RoSE'21)
 
+* **WHITE PAPER WITH INDUSTRY**: _Robert Bocchino, Arne Nordmann, Allison Thackston, Andreas Angerer, Federico Ciccozzi, Ivano Malavolta, Andreas Wortmann._ **Industry Best Practices in Robotics Software Engineering.** ([PDF](https://arxiv.org/abs/2212.04877))
+
 * _Jabier Martinez, Alejandra Ruiz, Ansgar Radermacher and Stefano Tonetta._ **Assumptions and Guarantees for Composable Models in Papyrus for Robotics.** ([PDF](/files/rose2021/papers/rose2021_1.pdf))
 * _Christoph Mayr-Dorn, Mario Winterer, Christian Salomon, Doris Hohensinger and Rudolf Ramler._ **Considerations for using Block-Based Languages for Industrial Robot Programming -- a Case Study.** ([PDF](/files/rose2021/papers/rose2021_2.pdf))
 * _Jabier Martinez, Alejandra Ruiz, Ainara Garzo, Thierry Keller, Ansgar Radermacher and Stefano Tonetta._ **Modelling the Component-based Architecture and Safety Contracts of ArmAssist in Papyrus for Robotics.** ([PDF](/files/rose2021/papers/rose2021_3.pdf))
