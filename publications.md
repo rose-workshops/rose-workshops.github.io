@@ -4,7 +4,32 @@ title: Publications
 subtitle: Publications related to RoSE
 ---
 
-This page presents all paper accepted in every RoSE workshop so far. 
+This page presents all paper accepted in every RoSE workshop so far.
+
+## 5th International Workshop on Robotics Software Engineering (RoSE'23)
+
+* _Emilia Cioroaica, Barbora Buhnova, Daniel Schneider, Ioannis Sorokos, Thomas Kuhn and Emrah Tomur._
+  **Towards the concept of trust assurance case.**
+* _Darko Bozhinoski and Mauro Birattari._
+  **Enhancing the technological maturity of robot swarms.**
+* _Nadia Hammoudeh Garcia and Andreas Wortmann._
+  **Survey on robotic systems integration.**
+* _Minh Nguyen, Nico Hochgeschwender and Sebastian Wrede._
+  **An analysis of behaviour-driven requirement specification for robotic competitions.**
+* _Emil Stubbe Kolvig-Raun, Mikkel Baun Kjærgaard and Ralph Brorsen._
+  **EDDE: an event-driven data exchange to accurately introspect cobot applications.**
+* _Nadia Hammoudeh Garcia, Harshavardhan Deshpande, Ruichao Wu, Björn Kahl and Andreas Wortmann._
+  **Lifting ROS to model-driven development: lessons learned from a bottom-up approach.**
+* _Paulius Daubaris, Simo Linkola, Anna Kantosalo and Niko Mäkitalo._
+  **Getting started with ROS2 development: a case study of software development challenges.**
+* _Martin Schörner, Constantin Wanninger, Raphael Katschinsky, Simon Hornung, Christian Eymüller, Alexander Poeppel and Wolfgang Reif._
+  **UAV inspection of large components: determination of alternative inspection point and online route optimization.**
+* _Marco Stadler and Michael Vierhauser._
+  **ROMoSu: flexible runtime monitoring support for ROS-based applications.**
+* _Momina Rizwan, Ricardo Caldas, Christoph Reichenbach and Matthias Mayr._
+  **EzSkiROS: a case study on embedded robotics DSLs to catch bugs early.**
+* _Paulius Daubaris, Juhana Helovuo and Niko Mäkitalo._
+  **Augmenting robot software development with flexbot.**
 
 ## 4th International Workshop on Robotics Software Engineering (RoSE'22)
 
