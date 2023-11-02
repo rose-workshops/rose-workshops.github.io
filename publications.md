@@ -10,26 +10,37 @@ This page presents all paper accepted in every RoSE workshop so far.
 
 * _Emilia Cioroaica, Barbora Buhnova, Daniel Schneider, Ioannis Sorokos, Thomas Kuhn and Emrah Tomur._
   **Towards the concept of trust assurance case.**
+  ([Paper](/files/rose2023/papers/RoSE2023_paper_7.pdf))
 * _Darko Bozhinoski and Mauro Birattari._
   **Enhancing the technological maturity of robot swarms.**
+  ([Paper](/files/rose2023/papers/RoSE2023_paper_12.pdf))
 * _Nadia Hammoudeh Garcia and Andreas Wortmann._
   **Survey on robotic systems integration.**
+  ([Paper](/files/rose2023/papers/RoSE2023_paper_4.pdf))
 * _Minh Nguyen, Nico Hochgeschwender and Sebastian Wrede._
   **An analysis of behaviour-driven requirement specification for robotic competitions.**
+  ([Paper](/files/rose2023/papers/RoSE2023_paper_10.pdf))
 * _Emil Stubbe Kolvig-Raun, Mikkel Baun Kjærgaard and Ralph Brorsen._
   **EDDE: an event-driven data exchange to accurately introspect cobot applications.**
+  ([Paper](/files/rose2023/papers/RoSE2023_paper_13.pdf))
 * _Nadia Hammoudeh Garcia, Harshavardhan Deshpande, Ruichao Wu, Björn Kahl and Andreas Wortmann._
   **Lifting ROS to model-driven development: lessons learned from a bottom-up approach.**
+  ([Paper](/files/rose2023/papers/RoSE2023_paper_5.pdf))
 * _Paulius Daubaris, Simo Linkola, Anna Kantosalo and Niko Mäkitalo._
   **Getting started with ROS2 development: a case study of software development challenges.**
+  ([Paper](/files/rose2023/papers/RoSE2023_paper_1.pdf))
 * _Martin Schörner, Constantin Wanninger, Raphael Katschinsky, Simon Hornung, Christian Eymüller, Alexander Poeppel and Wolfgang Reif._
   **UAV inspection of large components: determination of alternative inspection point and online route optimization.**
+  ([Paper](/files/rose2023/papers/RoSE2023_paper_11.pdf))
 * _Marco Stadler and Michael Vierhauser._
   **ROMoSu: flexible runtime monitoring support for ROS-based applications.**
+  ([Paper](/files/rose2023/papers/RoSE2023_paper_3.pdf))
 * _Momina Rizwan, Ricardo Caldas, Christoph Reichenbach and Matthias Mayr._
   **EzSkiROS: a case study on embedded robotics DSLs to catch bugs early.**
+  ([Paper](/files/rose2023/papers/RoSE2023_paper_15.pdf))
 * _Paulius Daubaris, Juhana Helovuo and Niko Mäkitalo._
   **Augmenting robot software development with flexbot.**
+  ([Paper](/files/rose2023/papers/RoSE2023_paper_2.pdf))
 
 ## 4th International Workshop on Robotics Software Engineering (RoSE'22)
 
@@ -39,7 +50,7 @@ This page presents all paper accepted in every RoSE workshop so far.
 * _Ettore Merlo, Carlo Pinciroli, Jacopo Panerati, Michalis Famelis and Giovanni Beltrame._ **Automated Extraction and Checking of Property Models from Source Code for Robot Swarms.**([Paper](/files/rose2022/papers/RoSE22_paper_5.pdf)) ([Slides](/files/rose2022/slides/RoSE22_paper_5.pdf))
 * _Reynaldo Cobos Mendez, Eddo Hobert, Douwe Dresscher and Jan Broenink._ **On Structuring Energy-aware Sequence-control Software.**([Paper](/files/rose2022/papers/RoSE22_paper_6.pdf)) ([Slides](/files/rose2022/slides/RoSE22_paper_6.pdf))
 * _Manuel Zürn, Markus Wnuk, Armin Lechler and Alexander Verl._ **Software Architecture For Deformable Linear Object Manipulation: A Shape Manipulation Case Study.**([Paper](/files/rose2022/papers/RoSE22_paper_7.pdf)) ([Slides](/files/rose2022/slides/RoSE22_paper_7.pdf))
-* _Milda Zizyte and Trenton Tabor._ **Should Robotics Engineering Education Include Software Engineering Education?.**([Paper](/files/rose2022/papers/)) ([Slides](/files/rose2022/slides/)).**([Paper](/files/rose2022/papers/RoSE22_paper_9.pdf)) ([Slides](/files/rose2022/slides/RoSE22_paper_9.pdf))
+* _Milda Zizyte and Trenton Tabor._ **Should Robotics Engineering Education Include Software Engineering Education?.**([Paper](/files/rose2022/papers/RoSE22_paper_9.pdf)) ([Slides](/files/rose2022/slides/RoSE22_paper_9.pdf))
 * _Paulo Canelas, Miguel Tavares, Ricardo Cordeiro, Alcides Fonseca and Christopher S. Timperley._ **The Developer Experience of Newcomers in Learning the Robot Operating System.**([Paper](/files/rose2022/papers/RoSE22_paper_11.pdf)) ([Slides](/files/rose2022/slides/RoSE22_paper_11.pdf))
 * _Gabriela Catalán Medina, Jérémie Guiochet, Charles Lesire and Augustin Manecy._ **A skill fault model for autonomous systems.**([Paper](/files/rose2022/papers/RoSE22_paper_12.pdf)) ([Slides](/files/rose2022/slides/RoSE22_paper_12.pdf))
 
