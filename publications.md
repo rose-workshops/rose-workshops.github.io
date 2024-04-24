@@ -6,6 +6,16 @@ subtitle: Publications related to RoSE
 
 This page presents all paper accepted in every RoSE workshop so far.
 
+## 6th International Workshop on Robotics Software Engineering (RoSE'24)
+
+* _Michel Albonico, Paulo Júnior Varela, Adair José Rohling and Andreas Wortmann._ **Energy Efficiency of ROS Nodes in Different Languages: Publisher/Subscriber Case Studies** ([Paper](/files/rose2024/papers/rose_2024_1.pdf, [Slides](/files/rose2024/slides/rose_2024_1.pdf))
+* _Johannes Mey, Ariel Podlubne, René Schöne, Paul Gottschaldt, Diana Goehringer and Uwe Assmann._ **Systematic Testing of a ROS Interface Specification Backend** ([Paper](/files/rose2024/papers/rose_2024_2.pdf), [Slides](/files/rose2024/slides/rose_2024_2.pdf))
+* _Emil Stubbe Kolvig-Raun, Miguel Campusano and Thor Malmby Jørgin._ **Contextual visualizations for debugging collaborative robots** ([Paper](/files/rose2024/papers/rose_2024_3.pdf), [Slides](/files/rose2024/slides/rose_2024_3.pdf))
+* _Daniel Vojnar, Adela Bierska and Barbora Buhnova._ **Scenarios for Trust Management in Swarm Robotics** ([Paper](/files/rose2024/papers/rose_2024_4.pdf), [Slides](/files/rose2024/slides/rose_2024_4.pdf))
+* _Abhinav Upadhyay, Alpana Dubey and Shubhashis Sengupta._ **RoMaViD: Learning Robotic Manipulation from Video Demonstrations** ([Paper](/files/rose2024/papers/rose_2024_5.pdf))
+* _Ahmad R. Hamid and Mikkel B. Kjærgaard._ **An Edge Computing Sizing Tool for Robotic Workloads** ([Paper](/files/rose2024/papers/rose_2024_6.pdf), [Slides](/files/rose2024/slides/rose_2024_6.pdf))
+* _Lukas Dust, Mikael Ekström, Rong Gu, Saad Mubeen and Cristina Seceleanu._ **Towards Automated Verification of ROS 2 Systems - A Model-Based Approach** ([Paper](/files/rose2024/papers/rose_2024_7.pdf), [Slides](/files/rose2024/slides/rose_2024_7.pdf))
+
 ## 5th International Workshop on Robotics Software Engineering (RoSE'23)
 
 * _Emilia Cioroaica, Barbora Buhnova, Daniel Schneider, Ioannis Sorokos, Thomas Kuhn and Emrah Tomur._
