@@ -8,7 +8,7 @@ This page presents all paper accepted in every RoSE workshop so far.
 
 ## 6th International Workshop on Robotics Software Engineering (RoSE'24)
 
-* _Michel Albonico, Paulo Júnior Varela, Adair José Rohling and Andreas Wortmann._ **Energy Efficiency of ROS Nodes in Different Languages: Publisher/Subscriber Case Studies** ([Paper](/files/rose2024/papers/rose_2024_1.pdf), [Slides](/files/rose2024/slides/rose_2024_1.pdf))
+* -- BEST PAPER AWARD -- _Michel Albonico, Paulo Júnior Varela, Adair José Rohling and Andreas Wortmann._ **Energy Efficiency of ROS Nodes in Different Languages: Publisher/Subscriber Case Studies** ([Paper](/files/rose2024/papers/rose_2024_1.pdf), [Slides](/files/rose2024/slides/rose_2024_1.pdf))
 * _Johannes Mey, Ariel Podlubne, René Schöne, Paul Gottschaldt, Diana Goehringer and Uwe Assmann._ **Systematic Testing of a ROS Interface Specification Backend** ([Paper](/files/rose2024/papers/rose_2024_2.pdf), [Slides](/files/rose2024/slides/rose_2024_2.pdf))
 * _Emil Stubbe Kolvig-Raun, Miguel Campusano and Thor Malmby Jørgin._ **Contextual visualizations for debugging collaborative robots** ([Paper](/files/rose2024/papers/rose_2024_3.pdf), [Slides](/files/rose2024/slides/rose_2024_3.pdf))
 * _Daniel Vojnar, Adela Bierska and Barbora Buhnova._ **Scenarios for Trust Management in Swarm Robotics** ([Paper](/files/rose2024/papers/rose_2024_4.pdf), [Slides](/files/rose2024/slides/rose_2024_4.pdf))
@@ -27,7 +27,7 @@ This page presents all paper accepted in every RoSE workshop so far.
 * _Nadia Hammoudeh Garcia and Andreas Wortmann._
   **Survey on robotic systems integration.**
   ([Paper](/files/rose2023/papers/RoSE2023_paper_4.pdf))
-* _Minh Nguyen, Nico Hochgeschwender and Sebastian Wrede._
+* -- BEST PAPER AWARD -- _Minh Nguyen, Nico Hochgeschwender and Sebastian Wrede._
   **An analysis of behaviour-driven requirement specification for robotic competitions.**
   ([Paper](/files/rose2023/papers/RoSE2023_paper_10.pdf))
 * _Emil Stubbe Kolvig-Raun, Mikkel Baun Kjærgaard and Ralph Brorsen._
