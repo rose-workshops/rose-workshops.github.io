@@ -15,6 +15,7 @@ Currently, the RoSE Steering Committee consists of the following members:
 - [Ivano Malavolta](http://www.ivanomalavolta.com/pu) (Vrije Universiteit Amsterdam, The Netherlands)
 - [Patrizio Pelliccione](http://www.patriziopelliccione.com/) (Chalmers University of Technology, University of Gothenburg, Sweden)
 - [Shahar Maoz](http://www.cs.tau.ac.il/~maozs/) (Tel Aviv University, Israel)
+- Christopher S. Timperley (Carnegie Mellon University, USA)
 
 # Organization Committee Members
 
