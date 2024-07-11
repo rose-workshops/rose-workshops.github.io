@@ -11,15 +11,8 @@ Currently, the RoSE Steering Committee consists of the following members:
 
 - [Andreas Angerer](https://www.linkedin.com/in/dr-andreas-angerer-21b136175/) (XITASO GmbH, Germany)
 - [Andreas Wortmann](http://www.wortmann.ac/) (University of Stuttgart, Germany)
-- [David Garlan](http://www.cs.cmu.edu/~garlan/) (Carnegie Mellon University, USA)
-- [Davide Di Ruscio](http://www.di.univaq.it/diruscio/) (University of L’Aquila, Italy)
-- [Dimos Dimarogonas](https://people.kth.se/~dimos/) (KTH Royal Institute of Technology, Sweden)
 - [Federico Ciccozzi](http://www.es.mdh.se/staff/266-Federico_Ciccozzi) (Mälardalen University, Sweden)
 - [Ivano Malavolta](http://www.ivanomalavolta.com/pu) (Vrije Universiteit Amsterdam, The Netherlands)
-- [Jordi Pages](https://sites.google.com/site/jordipages/) (Pal Robotics, Spain)
-- [Juergen Dingel](http://research.cs.queensu.ca/home/dingel/) (Queen's University, Canada)
-- [Lionel Briand](https://wwwfr.uni.lu/snt/people/lionel_briand) (University of Luxembourg, Luxembourg)
-- [Mathias Bürger](https://scholar.google.de/citations?user=WupCXMYAAAAJ&hl=en) (Robert Bosch GmbH, Germany)
 - [Patrizio Pelliccione](http://www.patriziopelliccione.com/) (Chalmers University of Technology, University of Gothenburg, Sweden)
 - [Shahar Maoz](http://www.cs.tau.ac.il/~maozs/) (Tel Aviv University, Israel)
 
