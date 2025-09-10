@@ -15,7 +15,8 @@ Currently, the RoSE Steering Committee consists of the following members:
 - [Ivano Malavolta](http://www.ivanomalavolta.com/pu) (Vrije Universiteit Amsterdam, The Netherlands)
 - [Patrizio Pelliccione](http://www.patriziopelliccione.com/) (Chalmers University of Technology, University of Gothenburg, Sweden)
 - [Shahar Maoz](http://www.cs.tau.ac.il/~maozs/) (Tel Aviv University, Israel)
-- Christopher S. Timperley (Carnegie Mellon University, USA)
+- [Christopher S. Timperley](https://chris.timperley.info/) (Carnegie Mellon University, USA)
+- [Jane Cleland-Huang](https://engineering.nd.edu/faculty/jane-cleland-huang/) (University of Notre Dame, USA)
 
 # Organization Committee Members
 
@@ -29,6 +30,9 @@ The RoSE organization committee organizes the individual workshops and takes car
 - Ivano Malavolta (Vrije Universiteit Amsterdam, The Netherlands)
 - Nico Hochgeschwender (Université du Luxembourg, Luxembourg)
 - Patrizio Pelliccione (Chalmers University of Technology / University of Gothenburg, Sweden)
+- Michel Albonico (Technological Federal University of Paraná, Brasil)
+- Hannan Keen (XITASO GmbH, Germany)
+- Ricardo Caldas (Gran Sasso Science Institute (GSSI), Italy)
 
 # Program Comittee Members
 
