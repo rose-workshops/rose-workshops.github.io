@@ -4,9 +4,17 @@ title: Workshops
 subtitle: The RoSE workshops
 ---
 
+## 8th International Workshop on Robotics Software Engineering (RoSE'26) 
+
+The [eighth edition of RoSE](/rose2026/) will take place at [ICRA 2026](https://2026.ieee-icra.org) in June.
+
+## 7th International Workshop on Robotics Software Engineering (RoSE'25) 
+
+The [seventh edition of RoSE](/rose2025/) was held at [ICSE 2025](https://conf.researchr.org/home/icse-2025).
+
 ## 6th International Workshop on Robotics Software Engineering (RoSE'24) 
 
-The [sixth edition of RoSE](/rose2024/) will take place at [ICSE 2024](https://conf.researchr.org/home/icse-2024) in April 2024.
+The [sixth edition of RoSE](/rose2024/) was held at [ICSE 2024](https://conf.researchr.org/home/icse-2024).
 
 ## 5th International Workshop on Robotics Software Engineering (RoSE'23) 
 
