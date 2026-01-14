@@ -8,10 +8,10 @@ This page presents all paper accepted in every RoSE workshop so far.
 
 ## 7th International Workshop on Robotics Software Engineering (RoSE'25)
 
-* _Calvin Cheung and Andrew Pfiel._ **Model-Based Systems Engineering Toolchains for Software Development of Robotic Autonomous Systems** ([Paper](/files/rose2025/papers/rose_2025_1.pdf))
-* _Uanderson Silva, Matheus Andrade, José Cruz, Andresa Almeida da Silva, Augusto Sampaio and Kiev Gama._ **Micro Frontend Architecture for Robotic Systems: A Systematic Approach with Design Rationale** ([Paper](/files/rose2025/papers/rose_2025_2.pdf))
-* _Mehran Rostamnia, Gianluca Filippone, Ricardo Caldas and Patrizio Pelliccione._ **Towards Adaptable and Uncertainty-aware Behavior Trees** ([Paper](/files/rose2025/papers/rose_2025_3.pdf))
-* _Marco Stadler, Stefan Biffl, Michael Vierhauser and Johannes Sametinger._ **Towards Unified Field-Testing and Monitoring for Safe and Secure Robotic Applications** ([Paper](/files/rose2025/papers/rose_2025_4.pdf))
+* _Calvin Cheung and Andrew Pfiel._ **Model-Based Systems Engineering Toolchains for Software Development of Robotic Autonomous Systems** ([Paper](/files/rose2025/rose_2025_1.pdf))
+* _Uanderson Silva, Matheus Andrade, José Cruz, Andresa Almeida da Silva, Augusto Sampaio and Kiev Gama._ **Micro Frontend Architecture for Robotic Systems: A Systematic Approach with Design Rationale** ([Paper](/files/rose2025/rose_2025_2.pdf))
+* _Mehran Rostamnia, Gianluca Filippone, Ricardo Caldas and Patrizio Pelliccione._ **Towards Adaptable and Uncertainty-aware Behavior Trees** ([Paper](/files/rose2025/rose_2025_3.pdf))
+* _Marco Stadler, Stefan Biffl, Michael Vierhauser and Johannes Sametinger._ **Towards Unified Field-Testing and Monitoring for Safe and Secure Robotic Applications** ([Paper](/files/rose2025/rose_2025_4.pdf))
 
 ## 6th International Workshop on Robotics Software Engineering (RoSE'24)
 
