@@ -1,0 +1,35 @@
+name: Job reminder
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 6,7 * * 5"
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check local time
+        id: local-time
+        run: |
+          day="$(TZ=Europe/Amsterdam date +%u)"
+          hour="$(TZ=Europe/Amsterdam date +%H)"
+          if [ "$day" = "5" ] && [ "$hour" = "08" ]; then
+            echo "send=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "send=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/checkout@v4
+        if: github.event_name == 'workflow_dispatch' || steps.local-time.outputs.send == 'true'
+
+      - name: Send reminder
+        if: github.event_name == 'workflow_dispatch' || steps.local-time.outputs.send == 'true'
+        env:
+          JOB_REMINDER_RECIPIENTS: ${{ vars.JOB_REMINDER_RECIPIENTS }}
+          JOB_SMTP_HOST: ${{ vars.JOB_SMTP_HOST }}
+          JOB_SMTP_PORT: ${{ vars.JOB_SMTP_PORT }}
+          JOB_SMTP_USERNAME: ${{ secrets.JOB_SMTP_USERNAME }}
+          JOB_SMTP_PASSWORD: ${{ secrets.JOB_SMTP_PASSWORD }}
+          JOB_SMTP_FROM: ${{ vars.JOB_SMTP_FROM }}
+        run: python3 scripts/send_job_reminder.py
