@@ -67,6 +67,66 @@ hr.small {
   display: none;
 }
 
+.job-listings {
+  margin-top: 30px;
+}
+
+.job-listings-status {
+  color: #777777;
+  font-style: italic;
+}
+
+.job-listing {
+  border-top: 1px solid #eeeeee;
+  padding: 28px 0 24px;
+}
+
+.job-listing:first-child {
+  border-top: 0;
+  padding-top: 0;
+}
+
+.job-listing-title {
+  font-size: 24px;
+  margin: 0 0 8px;
+}
+
+.job-listing-meta,
+.job-listing-deadline,
+.job-listing-actions {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.job-listing-meta {
+  color: #777777;
+  font-size: 15px;
+  margin: 0 0 18px;
+}
+
+.job-listing-description {
+  margin: 18px 0;
+}
+
+.job-listing-deadline {
+  font-size: 15px;
+  font-weight: 700;
+  margin: 18px 0 0;
+}
+
+.job-listing-actions {
+  font-size: 15px;
+  margin: 12px 0 0;
+}
+
+.job-listing-link {
+  font-weight: 700;
+  margin-right: 18px;
+}
+
+.job-listing-contact {
+  color: #777777;
+}
+
 ::-moz-selection {
   color: white;
   text-shadow: none;
