@@ -4,6 +4,7 @@
     return;
   }
 
+  var searchInput = document.getElementById('job-listings-search');
   var sheetUrl = root.getAttribute('data-sheet-url');
   var headers = {
     approved: 'Approved',
@@ -98,8 +99,8 @@
     return headers.approved in entries[0] && headers.deadline in entries[0];
   }
 
-  function renderEmpty() {
-    root.innerHTML = '<p class="job-listings-status">No job adverts are currently listed.</p>';
+  function renderEmpty(message) {
+    root.innerHTML = '<p class="job-listings-status">' + message + '</p>';
   }
 
   function appendText(parent, tagName, className, text) {
@@ -142,11 +143,32 @@
     parent.appendChild(link);
   }
 
-  function render(entries) {
+  function searchableText(entry) {
+    return [
+      entry[headers.title],
+      entry[headers.institution],
+      entry[headers.location],
+      entry[headers.description],
+      entry[headers.contact]
+    ].join(' ').toLowerCase();
+  }
+
+  function matchingEntries(entries) {
+    var query = searchInput ? searchInput.value.trim().toLowerCase() : '';
+    if (!query) {
+      return entries;
+    }
+
+    return entries.filter(function (entry) {
+      return searchableText(entry).indexOf(query) !== -1;
+    });
+  }
+
+  function render(entries, emptyMessage) {
     root.innerHTML = '';
 
     if (!entries.length) {
-      renderEmpty();
+      renderEmpty(emptyMessage);
       return;
     }
 
@@ -179,12 +201,22 @@
     .then(function (csv) {
       var entries = rowObjects(parseCsv(csv));
       if (!hasRequiredColumns(entries)) {
-        renderEmpty();
+        renderEmpty('No job adverts are currently listed.');
         return;
       }
-      render(entries.filter(function (entry) {
+      var currentEntries = entries.filter(function (entry) {
         return isApproved(entry) && isCurrent(entry);
-      }));
+      });
+      var update = function () {
+        var emptyMessage = currentEntries.length ? 'No job adverts match your search.' : 'No job adverts are currently listed.';
+        render(matchingEntries(currentEntries), emptyMessage);
+      };
+      if (searchInput) {
+        searchInput.addEventListener('input', update);
+      }
+      update();
     })
-    .catch(renderEmpty);
+    .catch(function () {
+      renderEmpty('No job adverts are currently listed.');
+    });
 }());
