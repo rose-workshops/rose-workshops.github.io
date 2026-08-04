@@ -35,4 +35,9 @@ RoSE is held on a yearly cycle. The first edition was co-located with ICSE and t
      style="width: 300px;" /></a></li>
       <p style="margin-bottom:1cm;" />
       <p style="margin-bottom:1cm;" />
+<li><a href="https://www.xitaso.com"><img src="/logos/XITASO.png"
+     alt="XITASO"
+     style="width: 300px;" /></a></li>
+      <p style="margin-bottom:1cm;" />
+      <p style="margin-bottom:1cm;" />
 </ul>
