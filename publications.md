@@ -4,7 +4,25 @@ title: Publications
 subtitle: Publications related to RoSE
 ---
 
-This page presents all paper accepted in every RoSE workshop so far.
+This page presents all papers accepted in every RoSE workshop so far.
+
+## 8th International Workshop on Robotics Software Engineering (RoSE'26)
+
+[Proceedings (CEUR-WS, Vol. 4243)](https://ceur-ws.org/Vol-4243/)
+
+* -- BEST PAPER AWARD -- _Mahsa Nikmard, Patrizio Pelliccione and Gianlorenzo D'Angelo._ **CogNav: Human-Inspired Collision Avoidance Strategy** ([Paper](https://ceur-ws.org/Vol-4243/paper1.pdf))
+* _Juliana Freitas, Elijah Phifer and Felipe Fronchetti._ **The Walking Packages: A Survival Analysis of ROS Repositories** ([Paper](https://ceur-ws.org/Vol-4243/paper2.pdf))
+* _Samed Ajdinović, Matthias Marquart, Benjamin Kaiser, Siddieq Mansour, Andreas Wortmann, Oliver Riedel and Alexander Verl._ **A Software Architecture for ROS2–CNC Interoperability: Automated Collision-Free Robot Motion Planning and Deterministic Execution** ([Paper](https://ceur-ws.org/Vol-4243/paper3.pdf))
+* _Théo Engels, Antonio Paolillo and Ken Hasselmann._ **tf2_rs: Bringing tf2 to Rust** ([Paper](https://ceur-ws.org/Vol-4243/paper4.pdf))
+* _Luuk B.L. Lenders, Thijs I. Bink, Douwe Dresscher, Kenan Niu, Jan B.F. van Erp and Jan F. Broenink._ **Enabling Runtime Reconfiguration in Multimodal Teleoperation Systems** ([Paper](https://ceur-ws.org/Vol-4243/paper5.pdf))
+* _Andrés Meseguer Valenzuela and Luís Miguel Bartolín Arnau._ **ORICF - Open Robotics Inference and Control Framework** ([Paper](https://ceur-ws.org/Vol-4243/paper6.pdf))
+* _Oliver Kosak, Philipp Kastenmüller, Vinzenz Malke, Fabian Schwaiger and Wolfgang Reif._ **A Swarm Algorithm for Following Formations applied to Crazyflie Drones** ([Paper](https://ceur-ws.org/Vol-4243/paper7.pdf))
+* _Juliana Freitas, Elijah Phifer, Nabila Fairuz and Felipe Fronchetti._ **Are We Welcome Here? A Preliminary Study of Newcomer Onboarding in the ROS Ecosystem** ([Paper](https://ceur-ws.org/Vol-4243/paper8.pdf))
+* _Daniel Schott, Lakshminarasimhan Srinivasan, Christian Herrmann and Andreas Nüchter._ **ROS2 Connect: A new ROS2 over WAN Solution** ([Paper](https://ceur-ws.org/Vol-4243/paper9.pdf))
+* _Emil Wiman, Mariusz Wzorek, Piotr Rudol, Tommy Persson and Mattias Tiger._ **From Simulation to Reality: Autonomous 3D Exploration with DAEP on Heterogeneous Robots** ([Paper](https://ceur-ws.org/Vol-4243/paper10.pdf))
+* _Yoganata Kristanto, Mina Alipour, Miguel Campusano and Aljaz Kramberger._ **Wizard or Example? Supporting Robot Program Reuse Discovery Across Expertise Levels** ([Paper](https://ceur-ws.org/Vol-4243/paper11.pdf))
+* _Jan-Niklas Klein, Sona Ghahremani, Christian Medeiros Adriano and Holger Giese._ **CrossMaps: Confidence-Aware Open-Vocabulary Semantic Mapping for Rover Navigation** ([Paper](https://ceur-ws.org/Vol-4243/paper12.pdf))
+* _Andreas Wiedholz, Rafael Paintner, Alwin Hoffmann, Carlos Hernandez and Tobias Huber._ **SUNSET - A Sensor-fUsioN based semantic SegmEnTation exemplar for ROS-based self-adaptation** ([Paper](https://ceur-ws.org/Vol-4243/paper13.pdf))
 
 ## 7th International Workshop on Robotics Software Engineering (RoSE'25)
 
